@@ -1,0 +1,45 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    /* background-color: rgb(5, 5, 212); */
+    
+}
+li{
+    display: inline;
+    float: left;
+    /* background-color: rgb(29, 120, 223); */
+}
+li a{
+    /* display: block; */
+    padding: 10px;
+    
+    /* color: rgba(255, 208, 0, 0.692); */
+    font-size: xx-large;
+    text-decoration: none;
+    /* color: rgb(255, 203, 5); */
+    
+}
+body{
+    /* background-color: rgb(29, 120, 223); */
+    font-family: 'Pokemon Solid', sans-serif;
+    color: rgb(255, 203, 5);
+    background-color: rgb(42, 117, 187);
+}
+.water{
+    color: #2a75bb;
+    background-color: #ffcb05;
+}
+.grass{
+    color: rgba(114, 199, 114, 0.925);
+}
+.fire{
+    color: rgb(228, 119, 17);
+}
+.ground{
+    color: rgb(204, 155, 91);
+}
+.bug{
+    color: rgb(125, 167, 102);
+}
